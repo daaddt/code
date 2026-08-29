@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "CodeMaster 代码大师",
+    "slug": "code-master-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#2563eb"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.codemaster.app"
+    },
+    "android": {
+      "package": "com.codemaster.app"
+    },
+    "web": {
+      "name": "CodeMaster 代码大师",
+      "backgroundColor": "#2563eb",
+      "themeColor": "#2563eb"
+    },
+    "plugins": []
+  }
+}
