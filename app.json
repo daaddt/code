@@ -9,7 +9,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#2563eb"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.codemaster.app"
@@ -22,6 +24,12 @@
       "backgroundColor": "#2563eb",
       "themeColor": "#2563eb"
     },
-    "plugins": []
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "f698b3a2-a2c5-4e90-93e9-ebcea45cb41f"
+      }
+    },
+    "owner": "daaddt"
   }
 }
