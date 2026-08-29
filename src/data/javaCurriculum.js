@@ -1027,7 +1027,7 @@ public class InheritanceDemo {
 - put/get/remove/containsKey/containsValue/size/keySet/values
 - 键不重复，重复 put 会覆盖旧值
 
-## 泛型 `<T>`
+## 泛型 \`<T>\`
 限定集合中存储的数据类型，避免强转：
 \`List<String> list = new ArrayList<>();\`  // list 只能存 String
 
